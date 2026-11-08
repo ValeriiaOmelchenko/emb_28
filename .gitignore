@@ -1,0 +1,14 @@
+# PlatformIO
+.pio/
+.vscode/
+build/
+
+# ESP-IDF
+sdkconfig.old
+managed_components/
+dependencies.lock
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
