@@ -19,7 +19,6 @@
 | 1.5 | Брязкіт контактів, переривання | [Task](1.5/Task.md) | - | - |
 | 1.6 | АЦП і фоторезистор | [Task](1.6/Task.md) | [1_6_Practice](1.6/1_6_Practice/) | [1_6_Reference](1.6/1_6_Reference/) |
 | 1.mini | Мініпроєкт: сутінковий вимикач | [Task](1.mini/Task.md) | - | [1_mini_Reference](1.mini/1_mini_Reference/) |
-| ГС1 | Комп'ютерна логіка | - | [Практика](FS1_Computer_Logic/Практика.md) | - |
 | 2.1 | Embedded C++ на ESP32 | [Task](2.1/Task.md) | [2_1_Practice](2.1/2_1_Practice/) | [2_1_Reference](2.1/2_1_Reference/) |
 | 2.3 | Superloop та незалежні задачі | [Task](2.3/Task.md) | [2_3_Practice](2.3/2_3_Practice/) | [2_3_Reference](2.3/2_3_Reference/) |
 | 6.1 | RTOS introduction | [Task](6.1/Task.md) | [6_1_Practice](6.1/6_1_Practice/) | - |
