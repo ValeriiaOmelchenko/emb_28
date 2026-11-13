@@ -22,4 +22,5 @@
 | 2.1 | Embedded C++ на ESP32 | [Task](2.1/Task.md) | [2_1_Practice](2.1/2_1_Practice/) | [2_1_Reference](2.1/2_1_Reference/) |
 | 2.3 | Superloop та незалежні задачі | [Task](2.3/Task.md) | [2_3_Practice](2.3/2_3_Practice/) | [2_3_Reference](2.3/2_3_Reference/) |
 | 6.1 | RTOS introduction | [Task](6.1/Task.md) | [6_1_Practice](6.1/6_1_Practice/) | - |
-| 6.2 | FreeRTOS: задачі та планувальник | [Task](6.2/Task.md) | [6_2_Practice](6.2/6_2_Practice/), [6_2_SystemView](6.2/6_2_SystemView/) | - |
+| 6.2 | FreeRTOS: задачі та планувальник | [Task](6.2/Task.md) | [6_2_Practice](6.2/6_2_Practice/), [6_2_SystemView](6.2/6_2_SystemView/) | [6_2_Reference](6.2/6_2_Reference/) |
+| 6.3 | FreeRTOS: черги | [Task](6.3/Task.md) | [6_3_Practice](6.3/6_3_Practice/), [6_3_Practice_Simple](6.3/6_3_Practice_Simple/) | - |

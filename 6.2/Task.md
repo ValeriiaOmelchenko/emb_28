@@ -30,4 +30,5 @@
 ## Матеріали
 
 - Практика з уроку: [`6_2_Practice/`](6_2_Practice/)
+- Еталон рішення: [`6_2_Reference/`](6_2_Reference/)
 - Бонус для охочих - задачі під SEGGER SystemView: [`6_2_SystemView/`](6_2_SystemView/) (інструкція: `SystemView_для_студентів.md`)
