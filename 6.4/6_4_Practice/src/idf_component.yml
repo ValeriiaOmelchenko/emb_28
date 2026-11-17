@@ -1,0 +1,5 @@
+## Залежності з ESP Component Registry (качаються при першій збірці в managed_components/).
+## led_strip - офіційний драйвер Espressif для адресних світлодіодів (WS2812) через RMT.
+dependencies:
+  idf: ">=5.0"
+  espressif/led_strip: "^3.0.0"
