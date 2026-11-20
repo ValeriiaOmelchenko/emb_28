@@ -24,7 +24,7 @@
 #include "freertos/task.h"
 
 // --- Ядро і стек ---
-#define APP_CORE         1
+#define APP_CORE         ((BaseType_t)1)
 // В ESP-IDF стек задачі - у БАЙТАХ. printf зʼїдає 1,5-2 КБ, тому 2048 - впритул.
 // Реальний запас друкує Maintenance (uxTaskGetStackHighWaterMark, теж у байтах).
 #define TASK_STACK_BYTES UINT32_C(3072)
