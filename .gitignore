@@ -12,3 +12,8 @@ dependencies.lock
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# STM32CubeIDE: workspace і результати збірки
+.metadata/
+Debug/
+Release/
