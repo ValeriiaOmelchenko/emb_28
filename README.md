@@ -24,6 +24,7 @@
 | 6.1 | RTOS introduction | [Task](6.1/Task.md) | [6_1_Practice](6.1/6_1_Practice/) | [6_1_Reference](6.1/6_1_Reference/) |
 | 6.2 | FreeRTOS: задачі та планувальник | [Task](6.2/Task.md) | [6_2_Practice](6.2/6_2_Practice/), [6_2_SystemView](6.2/6_2_SystemView/) | [6_2_Reference](6.2/6_2_Reference/) |
 | 6.3 | FreeRTOS: черги | [Task](6.3/Task.md) | [6_3_Practice](6.3/6_3_Practice/), [6_3_Practice_Simple](6.3/6_3_Practice_Simple/) | [6_3_Reference](6.3/6_3_Reference/) |
-| 6.4 | Кінцевий автомат: електронний сейф | [Task](6.4/Task.md) | [6_4_Practice](6.4/6_4_Practice/) | - |
+| 6.4 | Кінцевий автомат: електронний сейф | [Task](6.4/Task.md) | [6_4_Practice](6.4/6_4_Practice/) | [6_4_Reference](6.4/6_4_Reference/) |
 | 6.5 | Mutex, семафори, deadlock | [Task](6.5/Task.md) | [6_5_Practice](6.5/6_5_Practice/) | - |
+| 6.6 | Енергозбереження: light sleep і deep sleep | [Task](6.6/Task.md) | [6_6_Practice](6.6/6_6_Practice/) | - |
 | STM32 | Знайомство з STM32: CubeIDE, прошивка, UART | - | [stm32_entry](stm32/stm32_entry/) | - |

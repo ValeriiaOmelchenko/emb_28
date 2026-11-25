@@ -1,0 +1,9 @@
+# Power Management: потрібен кроку 6 (автоматичний light sleep у Idle Task).
+# Сам по собі нічого не вмикає: поки не викликано esp_pm_configure(), чип не засинає,
+# тому решті кроків ці опції не заважають.
+CONFIG_PM_ENABLE=y
+CONFIG_FREERTOS_USE_TICKLESS_IDLE=y
+# Статистика часу в кожному режимі для esp_pm_dump_locks() (крок 6): видно % сну без мультиметра.
+CONFIG_PM_PROFILING=y
+# CPU 240 МГц (за замовчуванням 160): крок 1 показує максимальний Active, крок 6 - DFS 240 <-> 40 МГц.
+CONFIG_ESP_DEFAULT_CPU_FREQ_MHZ_240=y
