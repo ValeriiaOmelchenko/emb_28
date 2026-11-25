@@ -58,7 +58,6 @@ pio run -e step1 -t upload -t monitor
 | Deep Sleep (RTC памʼять) | 7-8 мкА | 10-150 мкА |
 | Power off (CHIP_PU = 0) | 1 мкА | Hibernation ~5 мкА |
 
-Повна таблиця розбіжностей з посиланнями - у `../6_6_Theory/index.html`.
 
 ## Крок 1 - Active
 
