@@ -1,0 +1,10 @@
+# Крок 6: PSRAM, щоб MALLOC_CAP_SPIRAM мав куди виділяти.
+# ESP32-S3-DevKitC-1 N16R8 (як у методичці): 8 МБ Octal PSRAM.
+CONFIG_SPIRAM=y
+CONFIG_SPIRAM_MODE_OCT=y
+# Плата без PSRAM (N8) або з Quad PSRAM (N8R2) не впаде в panic на старті:
+# крок покаже, що heap_caps_malloc(..., MALLOC_CAP_SPIRAM) повертає NULL, і обробить це.
+CONFIG_SPIRAM_IGNORE_NOTFOUND=y
+# malloc() може брати PSRAM; запити до 16 КБ - завжди у внутрішню SRAM (значення за замовчуванням, явно для наочності).
+CONFIG_SPIRAM_USE_MALLOC=y
+CONFIG_SPIRAM_MALLOC_ALWAYSINTERNAL=16384

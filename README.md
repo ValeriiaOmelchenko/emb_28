@@ -27,4 +27,5 @@
 | 6.4 | Кінцевий автомат: електронний сейф | [Task](6.4/Task.md) | [6_4_Practice](6.4/6_4_Practice/) | [6_4_Reference](6.4/6_4_Reference/) |
 | 6.5 | Mutex, семафори, deadlock | [Task](6.5/Task.md) | [6_5_Practice](6.5/6_5_Practice/) | - |
 | 6.6 | Енергозбереження: light sleep і deep sleep | [Task](6.6/Task.md) | [6_6_Practice](6.6/6_6_Practice/) | - |
+| 6.7 | Heap, динамічна памʼять і рефакторинг | [Task](6.7/Task.md) | [6_7_Practice](6.7/6_7_Practice/) | - |
 | STM32 | Знайомство з STM32: CubeIDE, прошивка, UART | - | [stm32_entry](stm32/stm32_entry/) | - |
